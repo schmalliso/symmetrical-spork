@@ -1,7 +1,5 @@
-This is a sample item. Ooh aah.
+Hello {=name=}, this is a shared item!
 
-.. important:: THIS IS IMPORTANT
+.. important:: This heading is important.
 
-   Make sure you drink enough water, friends.
-
-
+   Have you drunk enough water today?
