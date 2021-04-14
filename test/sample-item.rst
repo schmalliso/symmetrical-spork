@@ -1,4 +1,4 @@
-Hello {=name=}, this is a shared item!
+Hello Allison, this is a shared item!
 
 .. important:: This heading is important.
 
